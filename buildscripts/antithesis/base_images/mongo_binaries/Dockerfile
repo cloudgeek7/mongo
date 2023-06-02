@@ -1,4 +1,4 @@
-FROM ubuntu:rolling
+FROM ubuntu:23.04
 
 EXPOSE 27017
 EXPOSE 27018
